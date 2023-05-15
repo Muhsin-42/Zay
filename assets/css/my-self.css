@@ -1,0 +1,68 @@
+/* This css file is the additional css Designed by - Muhsin & Joyel */
+
+
+/*====================================================================================== 
+                CSS FOR ALL
+====================================================================================== */
+.inline-me{
+    display: inline-block;
+}
+.flex-me{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*====================================================================================== 
+                SETUP-PROFILE.PHP
+====================================================================================== */
+#setup-form{
+    margin: 80px auto;
+}
+.form-group{
+    margin: 15px 0;
+}
+
+
+
+
+
+
+
+/*====================================================================================== 
+                PROFILE.PHP
+====================================================================================== */
+section{
+    margin: 20px auto;
+}
+.profile-main{
+    width: 80%;
+    margin: auto
+}
+#top-section{
+    align-items: baseline;
+}
+#top-section img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: aqua;
+}
+.profile-main h1{
+    background-color: aqua;
+    position: relative;
+    top: -45px;
+    left: 20px;
+}
+#diff-fields{
+    margin-left: 200px;
+}
